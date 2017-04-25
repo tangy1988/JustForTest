@@ -3,3 +3,5 @@ this is a test
 2 SECOND test from feature_branch
 2 second branch from MASTER
 3
+
+4. commit from master branch
