@@ -4,6 +4,6 @@ this is a test
 2 second branch from MASTER
 3
 
-
-
 5. commit from master locally
+
+4. commit from master branch
