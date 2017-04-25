@@ -15,4 +15,6 @@ changes by master before checkout to master again
 
 changes by master, add information from last_branch
 
+
 finalbranch: test merge with local branch
+make changes for master to merge to finalbranch
