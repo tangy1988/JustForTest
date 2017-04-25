@@ -18,3 +18,5 @@ changes by master, add information from last_branch
 
 finalbranch: test merge with local branch
 make changes for master to merge to finalbranch
+
+after pushing finalbranch to remote, make changes to put into master
