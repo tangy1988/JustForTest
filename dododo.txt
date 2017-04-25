@@ -14,3 +14,6 @@ changes by master before merge by last_branch
 changes by master before checkout to master again
 
 changes by master, add information from last_branch
+
+
+make changes for master to merge to finalbranch
