@@ -22,3 +22,5 @@ make changes for master to merge to finalbranch
 after pushing finalbranch to remote, make changes to put into master
 
 this is from newbranch comitted, before pushing this branch to gits
+
+second from newbranch
